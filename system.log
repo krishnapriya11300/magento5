@@ -1,0 +1,1237 @@
+[2023-02-14T07:28:53.977237+00:00] main.CRITICAL: No cache server(s) could be purged Cache host: localhost:80resulted in error message: Unable to connect to localhost:80 . Error #0: stream_socket_client(): Unable to connect to localhost:80 (Connection refused) {"method":"GET","url":"http:/","invalidateInfo":{"servers":[{"Laminas\\Uri\\Uri":"http://localhost:80/"}],"formattedTagsChunk":"((^|,)cat_c(,|$))"}} []
+[2023-02-14T07:28:54.691088+00:00] main.CRITICAL: No cache server(s) could be purged Cache host: localhost:80resulted in error message: Unable to connect to localhost:80 . Error #0: stream_socket_client(): Unable to connect to localhost:80 (Connection refused) {"method":"GET","url":"http:/","invalidateInfo":{"servers":[{"Laminas\\Uri\\Uri":"http://localhost:80/"}],"formattedTagsChunk":"((^|,)cat_c(,|$))|((^|,)cat_p(,|$))|((^|,)BLOCK_HTML(,|$))"}} []
+[2023-02-14T07:28:54.946938+00:00] main.CRITICAL: No cache server(s) could be purged Cache host: localhost:80resulted in error message: Unable to connect to localhost:80 . Error #0: stream_socket_client(): Unable to connect to localhost:80 (Connection refused) {"method":"GET","url":"http:/","invalidateInfo":{"servers":[{"Laminas\\Uri\\Uri":"http://localhost:80/"}],"formattedTagsChunk":"((^|,)cat_c(,|$))|((^|,)cat_p(,|$))"}} []
+[2023-02-14T07:28:55.050592+00:00] main.CRITICAL: No cache server(s) could be purged Cache host: localhost:80resulted in error message: Unable to connect to localhost:80 . Error #0: stream_socket_client(): Unable to connect to localhost:80 (Connection refused) {"method":"GET","url":"http:/","invalidateInfo":{"servers":[{"Laminas\\Uri\\Uri":"http://localhost:80/"}],"formattedTagsChunk":"((^|,)cat_c(,|$))|((^|,)cat_p(,|$))"}} []
+[2023-02-14T07:28:55.266440+00:00] main.CRITICAL: No cache server(s) could be purged Cache host: localhost:80resulted in error message: Unable to connect to localhost:80 . Error #0: stream_socket_client(): Unable to connect to localhost:80 (Connection refused) {"method":"GET","url":"http:/","invalidateInfo":{"servers":[{"Laminas\\Uri\\Uri":"http://localhost:80/"}],"formattedTagsChunk":"((^|,)cat_c(,|$))|((^|,)cat_p(,|$))"}} []
+[2023-02-14T07:28:56.542492+00:00] main.CRITICAL: No cache server(s) could be purged Cache host: localhost:80resulted in error message: Unable to connect to localhost:80 . Error #0: stream_socket_client(): Unable to connect to localhost:80 (Connection refused) {"method":"GET","url":"http:/","invalidateInfo":{"servers":[{"Laminas\\Uri\\Uri":"http://localhost:80/"}],"formattedTagsChunk":".*"}} []
+[2023-02-14T07:50:49.482337+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2023-02-14T07:50:49.490935+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2023-02-14T07:50:49.491137+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2023-02-14T07:50:49.491194+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2023-02-14T07:50:49.491256+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2023-02-14T07:50:49.491305+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2023-02-14T07:50:49.491353+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2023-02-14T07:50:49.491393+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2023-02-14T07:50:49.491433+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2023-02-14T07:50:49.491489+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2023-02-14T07:50:49.491549+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2023-02-14T07:50:49.491595+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2023-02-14T07:50:49.491649+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2023-02-14T07:50:49.491694+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2023-02-14T07:50:49.491763+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2023-02-14T07:50:49.491809+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2023-02-14T07:50:49.491858+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2023-02-14T07:50:49.491898+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2023-02-14T07:50:49.491945+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2023-02-14T07:50:49.491982+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2023-02-14T07:50:49.492041+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2023-02-14T07:50:49.492087+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2023-02-14T07:50:49.492127+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2023-02-14T07:50:49.492165+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2023-02-14T07:50:49.492204+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2023-02-14T07:50:49.492257+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2023-02-14T07:50:49.492302+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2023-02-14T07:50:49.492341+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2023-02-14T07:50:49.492380+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2023-02-14T07:50:49.492433+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2023-02-14T07:50:49.492476+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2023-02-14T07:50:49.492515+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2023-02-14T07:50:49.492554+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2023-02-14T07:50:49.492592+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2023-02-14T07:50:49.492630+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2023-02-14T07:50:49.492684+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2023-02-14T07:50:49.492734+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2023-02-14T07:50:49.492788+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2023-02-14T07:50:49.492833+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2023-02-14T07:50:49.492873+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2023-02-14T07:50:49.492926+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2023-02-14T07:50:49.492969+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2023-02-14T07:50:49.493023+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2023-02-14T07:50:49.493066+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2023-02-14T07:50:49.493119+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2023-02-14T07:50:49.493169+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2023-02-14T07:50:49.493223+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2023-02-14T07:50:49.493267+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2023-02-14T07:50:49.493333+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2023-02-14T07:50:49.493377+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2023-02-14T07:50:49.493431+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2023-02-14T07:50:49.493481+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2023-02-14T07:50:49.493537+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2023-02-14T07:50:49.493595+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2023-02-14T07:50:49.493638+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2023-02-14T07:50:49.493677+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2023-02-14T07:50:49.493715+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2023-02-14T07:50:49.493753+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2023-02-14T07:50:49.493791+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2023-02-14T07:50:49.493832+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2023-02-14T07:50:49.493885+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2023-02-14T07:50:49.493943+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2023-02-14T07:50:49.493987+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2023-02-14T07:50:49.494040+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2023-02-14T07:50:49.494102+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2023-02-14T07:50:49.494146+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2023-02-14T07:50:49.494185+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2023-02-14T07:50:49.494239+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2023-02-14T07:50:49.494283+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2023-02-14T07:50:49.494322+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2023-02-14T07:50:49.494375+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2023-02-14T07:50:49.494419+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2023-02-14T07:50:49.494458+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2023-02-14T07:50:49.494496+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2023-02-14T07:50:49.494533+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2023-02-14T07:50:49.494586+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2023-02-14T07:50:49.494629+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2023-02-14T07:50:49.494667+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2023-02-14T07:50:49.494704+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2023-02-14T07:50:49.494741+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2023-02-14T07:50:49.494779+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2023-02-14T07:50:49.494831+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2023-02-14T07:50:49.494881+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2023-02-14T07:50:49.494921+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2023-02-14T07:50:49.494965+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2023-02-14T07:50:49.495029+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2023-02-14T07:50:49.495069+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2023-02-14T07:50:49.495107+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2023-02-14T07:50:49.495145+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2023-02-14T07:50:49.495202+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2023-02-14T07:50:49.495245+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2023-02-14T07:50:49.495284+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2023-02-14T07:50:49.495322+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2023-02-14T07:50:49.495375+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2023-02-14T07:50:49.495419+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2023-02-14T07:50:49.495458+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2023-02-14T07:50:49.495501+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2023-02-14T07:50:49.495540+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2023-02-14T07:50:49.495578+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2023-02-14T07:50:49.495616+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2023-02-14T07:50:49.495654+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2023-02-14T07:50:49.495691+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2023-02-14T07:50:49.495729+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2023-02-14T07:50:49.495767+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2023-02-14T07:50:49.495805+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2023-02-14T07:50:49.495844+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2023-02-14T07:50:49.495882+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2023-02-14T07:50:49.495921+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2023-02-14T07:50:49.495975+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2023-02-14T07:50:49.496019+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2023-02-14T07:50:49.496058+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2023-02-14T07:50:49.496116+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2023-02-14T07:50:49.496160+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2023-02-14T07:50:49.496199+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2023-02-14T07:50:49.496246+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2023-02-14T07:50:49.496301+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2023-02-14T07:50:49.496344+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2023-02-14T07:50:49.496388+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2023-02-14T07:50:49.496427+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2023-02-14T07:50:49.496481+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2023-02-14T07:50:49.496526+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2023-02-14T07:50:49.496583+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2023-02-14T07:50:49.496627+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2023-02-14T07:50:49.496666+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2023-02-14T07:50:49.496705+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2023-02-14T08:00:03.407289+00:00] main.INFO: Request token dl28fpt2zyuzrr1gvhwho9cr6zx8selr was exchanged to obtain access token for consumer 1 [] []
+[2023-02-14T08:00:07.321165+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T09:00:03.399841+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T10:00:03.241395+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T11:00:03.245599+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T12:00:03.595790+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T13:00:03.368473+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T14:00:02.763456+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T15:00:03.643388+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T16:00:03.203325+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T17:00:02.962471+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T18:00:03.659475+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T19:00:03.199364+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T20:00:03.332626+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T21:00:02.927656+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T22:00:03.817310+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-14T23:00:03.018798+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T00:00:03.399139+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T01:00:03.789865+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T02:00:02.849238+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T03:00:03.237270+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T04:00:03.899040+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T05:00:03.824243+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T06:00:04.593338+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-15T07:00:05.270291+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store. Your certificate is invalid."}. Content-Type: application/json;charset=UTF-8 [] []
+[2023-02-16T02:59:27.797339+00:00] main.ERROR: The path is not allowed: media/wp-includes/wlwmanifest.xml [] []
+[2023-02-16T11:31:04.157071+00:00] main.ERROR: Requested path '' is wrong. [] []
+[2023-02-16T11:31:04.157330+00:00] main.CRITICAL: Requested path '' is wrong. [] []
+[2023-02-16T11:31:09.639196+00:00] main.ERROR: Requested path 'img/' is wrong. [] []
+[2023-02-16T11:31:09.639445+00:00] main.CRITICAL: Requested path 'img/' is wrong. [] []
+[2023-02-16T11:31:09.966464+00:00] main.ERROR: Requested path 'js/' is wrong. [] []
+[2023-02-16T11:31:09.966672+00:00] main.CRITICAL: Requested path 'js/' is wrong. [] []
+[2023-02-16T11:31:10.431529+00:00] main.ERROR: Requested path 'css/' is wrong. [] []
+[2023-02-16T11:31:10.431744+00:00] main.CRITICAL: Requested path 'css/' is wrong. [] []
+[2023-02-16T12:12:54.454631+00:00] main.ERROR: Requested path 'index.html' is wrong. [] []
+[2023-02-16T12:12:54.454847+00:00] main.CRITICAL: Requested path 'index.html' is wrong. [] []
+[2023-02-16T12:12:56.516249+00:00] main.ERROR: Requested path 'index.html' is wrong. [] []
+[2023-02-16T12:12:56.516455+00:00] main.CRITICAL: Requested path 'index.html' is wrong. [] []
+[2023-02-16T12:29:41.830715+00:00] main.ERROR: The path is not allowed: media/wp-includes/wlwmanifest.xml [] []
+[2023-02-16T13:26:53.260350+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee2f1d3f770; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:29:38.711893+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee2fc2adb5b; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:35:10.127862+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee310e1f1fc; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:36:05.306710+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee31454aca3; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:36:07.023039+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee31470584b; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:36:41.098500+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee316917f41; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:38:17.039223+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:17.039437+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:17.558643+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:17.558835+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:27.635651+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:27.635866+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:28.227627+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:28.229141+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:38.833281+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:38.833491+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:39.642397+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:39.642599+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:38:59.332957+00:00] main.ERROR: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:38:59.333177+00:00] main.CRITICAL: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:39:00.183897+00:00] main.ERROR: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:39:00.184103+00:00] main.CRITICAL: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:39:10.705143+00:00] main.ERROR: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:39:10.705344+00:00] main.CRITICAL: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:39:11.210043+00:00] main.ERROR: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:39:11.210247+00:00] main.CRITICAL: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:39:21.337579+00:00] main.ERROR: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:39:21.337782+00:00] main.CRITICAL: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:39:21.911371+00:00] main.ERROR: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:39:21.911569+00:00] main.CRITICAL: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:39:32.496788+00:00] main.ERROR: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:39:32.496999+00:00] main.CRITICAL: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:39:33.267816+00:00] main.ERROR: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:39:33.268028+00:00] main.CRITICAL: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:39:53.670114+00:00] main.ERROR: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:39:53.670313+00:00] main.CRITICAL: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:39:54.360813+00:00] main.ERROR: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:39:54.361015+00:00] main.CRITICAL: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:41:34.156112+00:00] main.ERROR: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:41:34.156316+00:00] main.CRITICAL: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:41:34.809801+00:00] main.ERROR: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:41:34.810001+00:00] main.CRITICAL: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:41:45.137221+00:00] main.ERROR: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:41:45.137445+00:00] main.CRITICAL: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:41:45.794476+00:00] main.ERROR: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:41:45.794669+00:00] main.CRITICAL: Requested path '.._.._.._.._.._.._etc/passwd' is wrong. [] []
+[2023-02-16T13:42:06.502004+00:00] main.ERROR: Requested path 成成/成成/成成/成成/成成/成成/etc/passwd is wrong. [] []
+[2023-02-16T13:42:06.502206+00:00] main.CRITICAL: Requested path 成成/成成/成成/成成/成成/成成/etc/passwd is wrong. [] []
+[2023-02-16T13:42:07.304860+00:00] main.ERROR: Requested path 成成/成成/成成/成成/成成/成成/etc/passwd is wrong. [] []
+[2023-02-16T13:42:07.305054+00:00] main.CRITICAL: Requested path 成成/成成/成成/成成/成成/成成/etc/passwd is wrong. [] []
+[2023-02-16T13:42:22.064210+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee32be0f968; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:42:27.049030+00:00] main.ERROR: Requested path '\../\../\../\../\../\../etc/passwd' is wrong. [] []
+[2023-02-16T13:42:27.049222+00:00] main.CRITICAL: Requested path '\../\../\../\../\../\../etc/passwd' is wrong. [] []
+[2023-02-16T13:42:27.791824+00:00] main.ERROR: Requested path '\../\../\../\../\../\../etc/passwd' is wrong. [] []
+[2023-02-16T13:42:27.792039+00:00] main.CRITICAL: Requested path '\../\../\../\../\../\../etc/passwd' is wrong. [] []
+[2023-02-16T13:43:27.069464+00:00] main.ERROR: Requested path ..;/..;/..;/..;/..;/..;/etc/passwd is wrong. [] []
+[2023-02-16T13:43:27.069668+00:00] main.CRITICAL: Requested path ..;/..;/..;/..;/..;/..;/etc/passwd is wrong. [] []
+[2023-02-16T13:43:27.777161+00:00] main.ERROR: Requested path ..;/..;/..;/..;/..;/..;/etc/passwd is wrong. [] []
+[2023-02-16T13:43:27.777360+00:00] main.CRITICAL: Requested path ..;/..;/..;/..;/..;/..;/etc/passwd is wrong. [] []
+[2023-02-16T13:43:57.980159+00:00] main.ERROR: Requested path '\etc/passwd' is wrong. [] []
+[2023-02-16T13:43:57.980364+00:00] main.CRITICAL: Requested path '\etc/passwd' is wrong. [] []
+[2023-02-16T13:43:58.649739+00:00] main.ERROR: Requested path '\etc/passwd' is wrong. [] []
+[2023-02-16T13:43:58.649937+00:00] main.CRITICAL: Requested path '\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:08.899069+00:00] main.ERROR: Requested path '\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:08.899280+00:00] main.CRITICAL: Requested path '\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:09.653267+00:00] main.ERROR: Requested path '\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:09.653459+00:00] main.CRITICAL: Requested path '\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:19.672408+00:00] main.ERROR: Requested path '\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:19.672625+00:00] main.CRITICAL: Requested path '\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:20.298486+00:00] main.ERROR: Requested path '\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:20.298675+00:00] main.CRITICAL: Requested path '\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:30.691878+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:30.692088+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:31.391978+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:31.392169+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:44:41.744547+00:00] main.ERROR: Requested path ...\...\...\...\...\...\etc/passwd is wrong. [] []
+[2023-02-16T13:44:41.744750+00:00] main.CRITICAL: Requested path ...\...\...\...\...\...\etc/passwd is wrong. [] []
+[2023-02-16T13:44:42.400966+00:00] main.ERROR: Requested path ...\...\...\...\...\...\etc/passwd is wrong. [] []
+[2023-02-16T13:44:42.401161+00:00] main.CRITICAL: Requested path ...\...\...\...\...\...\etc/passwd is wrong. [] []
+[2023-02-16T13:44:53.272401+00:00] main.ERROR: Requested path ....\\....\\....\\....\\....\\....\\etc/passwd is wrong. [] []
+[2023-02-16T13:44:53.272604+00:00] main.CRITICAL: Requested path ....\\....\\....\\....\\....\\....\\etc/passwd is wrong. [] []
+[2023-02-16T13:44:53.864025+00:00] main.ERROR: Requested path ....\\....\\....\\....\\....\\....\\etc/passwd is wrong. [] []
+[2023-02-16T13:44:53.864214+00:00] main.CRITICAL: Requested path ....\\....\\....\\....\\....\\....\\etc/passwd is wrong. [] []
+[2023-02-16T13:45:04.478872+00:00] main.ERROR: Requested path .....\\.....\\.....\\.....\\.....\\.....\\etc/passwd is wrong. [] []
+[2023-02-16T13:45:04.479114+00:00] main.CRITICAL: Requested path .....\\.....\\.....\\.....\\.....\\.....\\etc/passwd is wrong. [] []
+[2023-02-16T13:45:05.149515+00:00] main.ERROR: Requested path .....\\.....\\.....\\.....\\.....\\.....\\etc/passwd is wrong. [] []
+[2023-02-16T13:45:05.149749+00:00] main.CRITICAL: Requested path .....\\.....\\.....\\.....\\.....\\.....\\etc/passwd is wrong. [] []
+[2023-02-16T13:45:16.316712+00:00] main.ERROR: Requested path  ..\ ..\ ..\ ..\ ..\ ..\etc/passwd is wrong. [] []
+[2023-02-16T13:45:16.316909+00:00] main.CRITICAL: Requested path  ..\ ..\ ..\ ..\ ..\ ..\etc/passwd is wrong. [] []
+[2023-02-16T13:45:17.111556+00:00] main.ERROR: Requested path  ..\ ..\ ..\ ..\ ..\ ..\etc/passwd is wrong. [] []
+[2023-02-16T13:45:17.111750+00:00] main.CRITICAL: Requested path  ..\ ..\ ..\ ..\ ..\ ..\etc/passwd is wrong. [] []
+[2023-02-16T13:45:37.671066+00:00] main.ERROR: Requested path  ...\ ...\ ...\ ...\ ...\ ...\etc/passwd is wrong. [] []
+[2023-02-16T13:45:37.671274+00:00] main.CRITICAL: Requested path  ...\ ...\ ...\ ...\ ...\ ...\etc/passwd is wrong. [] []
+[2023-02-16T13:45:38.420906+00:00] main.ERROR: Requested path  ...\ ...\ ...\ ...\ ...\ ...\etc/passwd is wrong. [] []
+[2023-02-16T13:45:38.421103+00:00] main.CRITICAL: Requested path  ...\ ...\ ...\ ...\ ...\ ...\etc/passwd is wrong. [] []
+[2023-02-16T13:45:59.178891+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:45:59.179122+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:45:59.856762+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:45:59.856942+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:20.851336+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:20.851564+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:21.463898+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:21.464094+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:41.569433+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:41.569628+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:42.228342+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:46:42.228537+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:01.623697+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:01.623953+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:02.377994+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:02.378208+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:22.830103+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:22.830306+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:23.449521+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:23.449735+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:33.363779+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:33.363987+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:33.877097+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:33.877298+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:45.132804+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:45.133013+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:45.761085+00:00] main.ERROR: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:45.761278+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:47:56.256667+00:00] main.ERROR: Requested path 成成\成成\成成\成成\成成\成成\etc/passwd is wrong. [] []
+[2023-02-16T13:47:56.256871+00:00] main.CRITICAL: Requested path 成成\成成\成成\成成\成成\成成\etc/passwd is wrong. [] []
+[2023-02-16T13:47:57.090581+00:00] main.ERROR: Requested path 成成\成成\成成\成成\成成\成成\etc/passwd is wrong. [] []
+[2023-02-16T13:47:57.090787+00:00] main.CRITICAL: Requested path 成成\成成\成成\成成\成成\成成\etc/passwd is wrong. [] []
+[2023-02-16T13:48:07.632252+00:00] main.ERROR: Requested path '..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:48:07.632475+00:00] main.CRITICAL: Requested path '..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:48:08.302410+00:00] main.ERROR: Requested path '..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:48:08.302610+00:00] main.CRITICAL: Requested path '..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\..\\\\\\\..\\\\..\\\\\\etc/passwd' is wrong. [] []
+[2023-02-16T13:48:28.251958+00:00] main.ERROR: Requested path '..\..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:48:28.252164+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:48:28.832568+00:00] main.ERROR: Requested path '..\..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:48:28.832755+00:00] main.CRITICAL: Requested path '..\..\..\..\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:49:08.464944+00:00] main.ERROR: Requested path '..\..\..\a\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:49:08.465146+00:00] main.CRITICAL: Requested path '..\..\..\a\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:49:08.962371+00:00] main.ERROR: Requested path '..\..\..\a\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:49:08.962578+00:00] main.CRITICAL: Requested path '..\..\..\a\..\..\..\etc/passwd' is wrong. [] []
+[2023-02-16T13:49:19.962001+00:00] main.ERROR: Requested path ..;\..;\..;\..;\..;\..;\etc/passwd is wrong. [] []
+[2023-02-16T13:49:19.962202+00:00] main.CRITICAL: Requested path ..;\..;\..;\..;\..;\..;\etc/passwd is wrong. [] []
+[2023-02-16T13:49:20.562227+00:00] main.ERROR: Requested path ..;\..;\..;\..;\..;\..;\etc/passwd is wrong. [] []
+[2023-02-16T13:49:20.562449+00:00] main.CRITICAL: Requested path ..;\..;\..;\..;\..;\..;\etc/passwd is wrong. [] []
+[2023-02-16T13:49:49.334491+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:49:49.334721+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:49:49.960813+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:49:49.961003+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:05.303624+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:05.303819+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:06.347816+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:06.348128+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:25.871833+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:25.872038+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:27.202899+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:27.203147+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:46.242381+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:46.242574+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:47.598308+00:00] main.ERROR: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:50:47.598505+00:00] main.CRITICAL: Requested path 'etc/passwd' is wrong. [] []
+[2023-02-16T13:51:26.513423+00:00] main.ERROR: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:51:26.513648+00:00] main.CRITICAL: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:51:27.641146+00:00] main.ERROR: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:51:27.641345+00:00] main.CRITICAL: Requested path .../.../.../.../.../.../etc/passwd is wrong. [] []
+[2023-02-16T13:51:46.539719+00:00] main.ERROR: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:51:46.539946+00:00] main.CRITICAL: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:51:47.515701+00:00] main.ERROR: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:51:47.515895+00:00] main.CRITICAL: Requested path ..../..../..../..../..../..../etc/passwd is wrong. [] []
+[2023-02-16T13:52:05.470807+00:00] main.ERROR: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:52:05.471025+00:00] main.CRITICAL: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:52:06.642613+00:00] main.ERROR: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:52:06.642811+00:00] main.CRITICAL: Requested path ...../...../...../...../...../...../etc/passwd is wrong. [] []
+[2023-02-16T13:52:24.955629+00:00] main.ERROR: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:52:24.955834+00:00] main.CRITICAL: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:52:26.020455+00:00] main.ERROR: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:52:26.020661+00:00] main.CRITICAL: Requested path  ../ ../ ../ ../ ../ ../etc/passwd is wrong. [] []
+[2023-02-16T13:52:33.102921+00:00] main.ERROR: The path is not allowed: media/plugins/system/shadowbox/min/index.php [] []
+[2023-02-16T13:53:03.583209+00:00] main.ERROR: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:53:03.583469+00:00] main.CRITICAL: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:53:04.733905+00:00] main.ERROR: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:53:04.734120+00:00] main.CRITICAL: Requested path  .../ .../ .../ .../ .../ .../etc/passwd is wrong. [] []
+[2023-02-16T13:55:17.510416+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee35c57c868; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:55:37.484805+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee35d97645b; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:55:52.510801+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee35e87c9dc; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T13:57:34.154243+00:00] main.CRITICAL: Exception: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/App/ErrorHandler.php:62
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler()
+#1 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(200): DOMDocument->loadXML()
+#2 /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php(121): Magento\Webapi\Model\Soap\Server->_checkRequest()
+#3 /bitnami/magento/generated/code/Magento/Webapi/Model/Soap/Server/Proxy.php(95): Magento\Webapi\Model\Soap\Server->handle()
+#4 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(148): Magento\Webapi\Model\Soap\Server\Proxy->handle()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#7 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#8 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#9 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#10 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#11 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#12 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#13 {main}
+
+Next Exception: Report ID: webapi-63ee364e2591e; Message: Warning: DOMDocument::loadXML(): Start tag expected, '&lt;' not found in Entity, line: 1 in /bitnami/magento/vendor/magento/module-webapi/Model/Soap/Server.php on line 200 in /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php:208
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/Webapi/ErrorProcessor.php(153): Magento\Framework\Webapi\ErrorProcessor->_critical()
+#1 /bitnami/magento/generated/code/Magento/Framework/Webapi/ErrorProcessor/Proxy.php(95): Magento\Framework\Webapi\ErrorProcessor->maskException()
+#2 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(184): Magento\Framework\Webapi\ErrorProcessor\Proxy->maskException()
+#3 /bitnami/magento/vendor/magento/module-webapi/Controller/Soap.php(151): Magento\Webapi\Controller\Soap->_prepareErrorResponse()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Webapi\Controller\Soap->dispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Webapi\Controller\Soap\Interceptor->___callParent()
+#6 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Webapi\Controller\Soap\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /bitnami/magento/generated/code/Magento/Webapi/Controller/Soap/Interceptor.php(23): Magento\Webapi\Controller\Soap\Interceptor->___callPlugins()
+#8 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Webapi\Controller\Soap\Interceptor->dispatch()
+#9 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#10 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#11 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#12 {main} [] []
+[2023-02-16T15:20:02.795512+00:00] main.CRITICAL: LogicException: Config element "Duration" is not declared in GraphQL schema in /bitnami/magento/vendor/magento/framework/GraphQl/Config.php:57
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/GraphQl/Schema/Type/TypeRegistry.php(68): Magento\Framework\GraphQl\Config->getConfigElement()
+#1 /bitnami/magento/vendor/magento/framework/GraphQl/Schema/SchemaGenerator.php(60): Magento\Framework\GraphQl\Schema\Type\TypeRegistry->get()
+#2 /bitnami/magento/vendor/webonyx/graphql-php/src/Type/Schema.php(350): Magento\Framework\GraphQl\Schema\SchemaGenerator->Magento\Framework\GraphQl\Schema\{closure}()
+#3 /bitnami/magento/vendor/webonyx/graphql-php/src/Type/Schema.php(326): GraphQL\Type\Schema->loadType()
+#4 /bitnami/magento/vendor/webonyx/graphql-php/src/Utils/AST.php(580): GraphQL\Type\Schema->getType()
+#5 /bitnami/magento/vendor/webonyx/graphql-php/src/Utils/AST.php(575): GraphQL\Utils\AST::typeFromAST()
+#6 /bitnami/magento/vendor/webonyx/graphql-php/src/Utils/TypeInfo.php(436): GraphQL\Utils\AST::typeFromAST()
+#7 /bitnami/magento/vendor/webonyx/graphql-php/src/Utils/TypeInfo.php(322): GraphQL\Utils\TypeInfo::typeFromAST()
+#8 /bitnami/magento/vendor/webonyx/graphql-php/src/Language/Visitor.php(466): GraphQL\Utils\TypeInfo->enter()
+#9 /bitnami/magento/vendor/webonyx/graphql-php/src/Language/Visitor.php(277): GraphQL\Language\Visitor::GraphQL\Language\{closure}()
+#10 /bitnami/magento/vendor/webonyx/graphql-php/src/Validator/DocumentValidator.php(224): GraphQL\Language\Visitor::visit()
+#11 /bitnami/magento/vendor/webonyx/graphql-php/src/Validator/DocumentValidator.php(116): GraphQL\Validator\DocumentValidator::visitUsingRules()
+#12 /bitnami/magento/vendor/webonyx/graphql-php/src/GraphQL.php(153): GraphQL\Validator\DocumentValidator::validate()
+#13 /bitnami/magento/vendor/webonyx/graphql-php/src/GraphQL.php(94): GraphQL\GraphQL::promiseToExecute()
+#14 /bitnami/magento/vendor/magento/framework/GraphQl/Query/QueryProcessor.php(78): GraphQL\GraphQL::executeQuery()
+#15 /bitnami/magento/vendor/magento/module-graph-ql/Controller/GraphQl.php(195): Magento\Framework\GraphQl\Query\QueryProcessor->process()
+#16 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\GraphQl\Controller\GraphQl->dispatch()
+#17 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\GraphQl\Controller\GraphQl\Interceptor->___callParent()
+#18 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\GraphQl\Controller\GraphQl\Interceptor->Magento\Framework\Interception\{closure}()
+#19 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#20 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\GraphQl\Controller\GraphQl\Interceptor->Magento\Framework\Interception\{closure}()
+#21 /bitnami/magento/generated/code/Magento/GraphQl/Controller/GraphQl/Interceptor.php(23): Magento\GraphQl\Controller\GraphQl\Interceptor->___callPlugins()
+#22 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\GraphQl\Controller\GraphQl\Interceptor->dispatch()
+#23 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#24 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#25 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#26 {main}
+
+Next Exception: Report ID: graph-ql-63ee49a2c2032; Message: Config element "Duration" is not declared in GraphQL schema in /bitnami/magento/vendor/magento/framework/GraphQl/Exception/ExceptionFormatter.php:64
+Stack trace:
+#0 /bitnami/magento/vendor/magento/module-graph-ql/Controller/GraphQl.php(199): Magento\Framework\GraphQl\Exception\ExceptionFormatter->create()
+#1 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\GraphQl\Controller\GraphQl->dispatch()
+#2 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\GraphQl\Controller\GraphQl\Interceptor->___callParent()
+#3 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\GraphQl\Controller\GraphQl\Interceptor->Magento\Framework\Interception\{closure}()
+#4 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#5 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\GraphQl\Controller\GraphQl\Interceptor->Magento\Framework\Interception\{closure}()
+#6 /bitnami/magento/generated/code/Magento/GraphQl/Controller/GraphQl/Interceptor.php(23): Magento\GraphQl\Controller\GraphQl\Interceptor->___callPlugins()
+#7 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\GraphQl\Controller\GraphQl\Interceptor->dispatch()
+#8 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#9 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#10 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#11 {main} [] []
+[2023-02-17T04:07:42.292924+00:00] main.ERROR: Requested path '.git/config' is wrong. [] []
+[2023-02-17T04:07:42.293134+00:00] main.CRITICAL: Requested path '.git/config' is wrong. [] []
+[2023-02-19T09:03:34.042498+00:00] main.ERROR: Requested path 'admin/javascript/hetong.js' is wrong. [] []
+[2023-02-19T09:03:34.043245+00:00] main.CRITICAL: Requested path 'admin/javascript/hetong.js' is wrong. [] []
+[2023-02-20T09:42:45.830838+00:00] main.ERROR: Requested path 'admin/javascript/hetong.js' is wrong. [] []
+[2023-02-20T09:42:45.831073+00:00] main.CRITICAL: Requested path 'admin/javascript/hetong.js' is wrong. [] []
+[2023-02-22T05:20:41.809351+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:20:41.811720+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
+[2023-02-22T05:23:03.935294+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:23:03.935748+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/generated/code/Magento/Cms/Model/PageFactory.php(43): Magento\Framework\ObjectManager\ObjectManager->create()
+#22 /bitnami/magento/vendor/magento/module-cms/Controller/Router.php(112): Magento\Cms\Model\PageFactory->create()
+#23 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Cms\Controller\Router->match()
+#24 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Cms\Controller\Router\Interceptor->___callParent()
+#25 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Cms\Controller\Router\Interceptor->Magento\Framework\Interception\{closure}()
+#26 /bitnami/magento/generated/code/Magento/Cms/Controller/Router/Interceptor.php(23): Magento\Cms\Controller\Router\Interceptor->___callPlugins()
+#27 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Cms\Controller\Router\Interceptor->match()
+#28 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#32 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#33 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#34 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#35 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#36 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#37 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#38 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#39 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#40 {main} {"report_id":"7e81cc39642b31ccdd27b00478001e6199e9eb208be10189ee8f1523260e8ba9"} []
+[2023-02-22T05:23:09.744786+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:23:09.745305+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
+[2023-02-22T05:37:59.168722+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:37:59.169213+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
+[2023-02-22T05:39:14.857757+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:39:14.858244+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
+[2023-02-22T05:39:18.172017+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:39:18.172511+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
+[2023-02-22T05:41:57.115227+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:41:57.115725+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
+[2023-02-22T05:51:23.350589+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:51:23.351069+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
+[2023-02-22T05:54:38.325628+00:00] main.ERROR: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. [] []
+[2023-02-22T05:54:38.326087+00:00] main.CRITICAL: BadMethodCallException: Missing required argument $restrictedValues of Magento\Framework\Validator\UrlKey. in /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php:264
+Stack trace:
+#0 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#1 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#2 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#3 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#4 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#5 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#6 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#7 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#8 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#9 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#10 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(206): Magento\Framework\ObjectManager\ObjectManager->get()
+#11 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(182): Magento\Framework\ObjectManager\Factory\AbstractFactory->parseArray()
+#12 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#13 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#14 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#15 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#16 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#17 /bitnami/magento/vendor/magento/module-cms/Model/Page.php(107): Magento\Framework\ObjectManager\ObjectManager->get()
+#18 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Model\Page->__construct()
+#19 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#20 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#21 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(170): Magento\Framework\ObjectManager\ObjectManager->get()
+#22 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(276): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument()
+#23 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(239): Magento\Framework\ObjectManager\Factory\AbstractFactory->getResolvedArgument()
+#24 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgumentsInRuntime()
+#25 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(59): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->_resolveArguments()
+#26 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#27 /bitnami/magento/vendor/magento/module-cms/Controller/Index/Index.php(58): Magento\Framework\ObjectManager\ObjectManager->get()
+#28 /bitnami/magento/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php(14): Magento\Cms\Controller\Index\Index->__construct()
+#29 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(121): Magento\Cms\Controller\Index\Index\Interceptor->__construct()
+#30 /bitnami/magento/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(66): Magento\Framework\ObjectManager\Factory\AbstractFactory->createObject()
+#31 /bitnami/magento/vendor/magento/framework/ObjectManager/ObjectManager.php(56): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create()
+#32 /bitnami/magento/vendor/magento/framework/App/ActionFactory.php(44): Magento\Framework\ObjectManager\ObjectManager->create()
+#33 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(306): Magento\Framework\App\ActionFactory->create()
+#34 /bitnami/magento/vendor/magento/framework/App/Router/Base.php(167): Magento\Framework\App\Router\Base->matchAction()
+#35 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\Router\Base->match()
+#36 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\Router\Base\Interceptor->___callParent()
+#37 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\Router\Base\Interceptor->Magento\Framework\Interception\{closure}()
+#38 /bitnami/magento/generated/code/Magento/Framework/App/Router/Base/Interceptor.php(23): Magento\Framework\App\Router\Base\Interceptor->___callPlugins()
+#39 /bitnami/magento/vendor/magento/framework/App/FrontController.php(144): Magento\Framework\App\Router\Base\Interceptor->match()
+#40 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#41 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#42 /bitnami/magento/vendor/magento/module-store/App/FrontController/Plugin/RequestPreprocessor.php(99): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#43 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Store\App\FrontController\Plugin\RequestPreprocessor->aroundDispatch()
+#44 /bitnami/magento/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(71): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#45 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch()
+#46 /bitnami/magento/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#47 /bitnami/magento/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#48 /bitnami/magento/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#49 /bitnami/magento/generated/code/Magento/Framework/App/Http/Interceptor.php(23): Magento\Framework\App\Http->launch()
+#50 /bitnami/magento/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http\Interceptor->launch()
+#51 /bitnami/magento/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#52 {main} {"report_id":"e4d936245155b9a626080b245fa6d780a92e0c048670992f801f19990a04aea9"} []
